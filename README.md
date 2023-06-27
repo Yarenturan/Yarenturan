@@ -2,6 +2,8 @@
 # 💫 About Me:
 🎓I am studying Mechatronics Engineering.<br>👩🏼‍💻I am developing myself in the field of software.<br>💻I am currently developing myself in JavaScript and React Native.
 
+[![](https://visitcount.itsvg.in/api?id=Yarenturan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yarenntrnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yaren-turan-4a21bb229/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/yarenntrn) 
