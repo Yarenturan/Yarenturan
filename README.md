@@ -1,4 +1,4 @@
-# yaren-turan
+# yarenturan
 # 💫 About Me:
 🎓I am studying Mechatronics Engineering.<br>👩🏼‍💻I am developing myself in the field of software.<br>💻I am currently developing myself in JavaScript and React Native.
 
