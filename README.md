@@ -22,6 +22,6 @@
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/yarenntrn)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yarenturan&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
