@@ -18,10 +18,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yarenturan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/yarenntrn)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
