@@ -1,6 +1,6 @@
 # Yarenturan
 # 💫 About Me:
-🎓I am studying Mechatronics Engineering.<br>👩🏼‍💻I am developing myself in the field of software.<br>💻I am currently developing myself in JavaScript and React Native.
+🎓I am studying Mechatronics Engineering.<br>👩🏼‍💻I am developing myself in the field of software.<br>💻I am currently developing myself in JavaScript and React Native.<br> 📌I am actively developing Arduino projects.
 
 [![](https://visitcount.itsvg.in/api?id=Yarenturan&icon=0&color=0)](https://visitcount.itsvg.in)
 
